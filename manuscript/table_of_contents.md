@@ -17,6 +17,7 @@
 ### BN256
 ### BLS12-381
 ### JubJub
+### BabyJubJub
 ### Cryptographic Commitments
 
 ## Pedersen Commitments
